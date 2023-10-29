@@ -49,4 +49,4 @@ User passwords are securely hashed using bcrypt for storage, providing a high le
   - The application is available at http://localhost:5000.
 
 ## Deployment
-This project was particularly deployed on render and can be found at `https://swiftchat-server.onrender.com`
+This project was particularly deployed on render and can be found at https://swiftchat-server.onrender.com

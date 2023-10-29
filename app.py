@@ -1,4 +1,4 @@
-"""SwiftChat Chatbot Backend API"""
+"""SwiftChat Chatbot Backend API."""
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import sqlite3
